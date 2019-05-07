@@ -1,0 +1,57 @@
+.profile-image-section img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+
+}
+
+.profile-image-section img {
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+.namecolor{
+    color:turquoise;
+}
+.experience-section p.d-md-block.d-none.float-left{
+ clear:both;
+}
+.education{
+    background-color:lightgrey;
+    padding: 20px 20px 0 20px;
+}
+.skills-section p{
+    background-color: black;
+    font-weight: bold;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 15px;
+    color: white;
+    margin-bottom: 5px;
+}
+.hobbies-section p{
+    background-color: black;
+    color: white;
+    padding:5px;
+    margin-bottom: 5px;
+}
+.hobbies-section .col-4{
+   padding-right: 0px;
+   text-align: center;
+}
+.icon{
+    max-width:100%;
+    height:38px;
+    padding-right: 8px;
+}
+.icont{
+    max-width:100%;
+    height:28px;
+    padding-right: 8px;
+}
+.iconp{
+    max-width:100%;
+    height:23px;
+    padding-right: 8px;
+}
